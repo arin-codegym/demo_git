@@ -2,4 +2,5 @@ init
 
 
 edit commit 1
-abc
+
+da xoa abc
