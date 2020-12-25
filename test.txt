@@ -3,6 +3,7 @@ init
 
 edit commit 1
 
-
 da xoa abc
+
+day la commit 2 phai xoa abc
 
