@@ -1,9 +1,9 @@
 init
-
+abc
 
 edit commit 1
 
-
+abc
 
 day la commit 2 phai xoa abc
 da xoa abc
