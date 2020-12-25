@@ -1,2 +1,3 @@
 init
-day la commit 1
+
+edit commit 1
